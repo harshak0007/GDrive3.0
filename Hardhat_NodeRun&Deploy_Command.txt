@@ -1,0 +1,5 @@
+Node Run -npx hardhat node
+
+Deploy Command - npx hardhat run --network localhost scripts/deploy.js
+
+
